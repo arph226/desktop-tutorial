@@ -1,6 +1,7 @@
 # Welcome to GitHub Desktop
 ## Lab 7: Code-Crash-Repeat-Commit: Git and GitHub
 By: Abby Phillips
+
 25 March 2025
 
 This repository was created in Lab 7 to explore Git, GitHub, and GitHub Desktop. In this lab I learned how to create and manage repositories, manage pull requests, and collaborate using GitDesktop. I also learned the difference between the three different programs. 
